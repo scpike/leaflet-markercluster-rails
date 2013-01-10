@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["spike@scpike.net"]
   gem.description   = %q{Cluster markers to improve performance of leaflet rendering with large sets.}
   gem.summary       = %q{Rails engine for the Leaflet.markercluster code}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/scpike/leaflet-markercluster-rails"
 
   gem.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
   gem.require_paths = ["lib"]
