@@ -14,5 +14,5 @@ Gem::Specification.new do |gem|
 
   gem.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
   gem.require_paths = ["lib"]
-  gem.add_dependency "railties", "~> 3.1"
+  gem.add_dependency "railties", ">= 3.1"
 end
