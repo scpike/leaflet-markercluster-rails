@@ -2,7 +2,7 @@
 
 Engine wrapper for the Leaflet MarkerCluster library by @danzel.
 
-https://github.com/danzel/Leaflet.markercluster
+https://github.com/Leaflet/Leaflet.markercluster
 
 ## Installation
 
@@ -20,9 +20,14 @@ Or install it yourself as:
 
 ## Usage
 
-Provides the follwoing:
+Provides the following assets:
 
     leaflet.markercluster.js
     leaflet.markercluster.css
     leaflet.markercluster.default.css
     leaflet.markercluster.ie.css
+
+## License
+MIT License, full text of license see [here][License]
+
+[License]: https://github.com/scpike/leaflet-markercluster-rails/blob/master/LICENSE.txt "LICENSE"
