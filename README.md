@@ -2,6 +2,8 @@
 
 Engine wrapper for the Leaflet MarkerCluster library by @danzel.
 
+*Requires Leaflet 0.7.0 or newer.*
+
 https://github.com/Leaflet/Leaflet.markercluster
 
 ## Installation
@@ -25,7 +27,6 @@ Provides the following assets:
     leaflet.markercluster.js
     leaflet.markercluster.css
     leaflet.markercluster.default.css
-    leaflet.markercluster.ie.css
 
 ## License
 MIT License, full text of license see [here][License]
