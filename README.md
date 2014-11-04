@@ -28,6 +28,18 @@ Provides the following assets:
     leaflet.markercluster.css
     leaflet.markercluster.default.css
 
+To use these in a Rails app, add the following to application.css or application.css.scss
+
+    //= require leaflet.markercluster
+    //= require leaflet.markercluster.default
+
+and add the following to application.js
+
+    //= require leaflet.markercluster
+
+You should require leaflet.markercluster after requiring the leaflet
+library itself. See https://github.com/axyjo/leaflet-rails.
+
 ## License
 MIT License, full text of license see [here][License]
 
