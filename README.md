@@ -1,3 +1,5 @@
+* Consider using rails-assets instead of this: https://rails-assets.org/#/components/leaflet.markercluster *
+
 # Leaflet.MarkerCluster for Rails
 
 Engine wrapper for the Leaflet MarkerCluster library by @danzel.
