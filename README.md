@@ -1,4 +1,4 @@
-* Consider using rails-assets instead of this: https://rails-assets.org/#/components/leaflet.markercluster *
+*Consider using rails-assets instead of this: https://rails-assets.org/#/components/leaflet.markercluster*
 
 # Leaflet.MarkerCluster for Rails
 
