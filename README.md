@@ -4,7 +4,7 @@
 
 Engine wrapper for the Leaflet MarkerCluster library by @danzel.
 
-*Requires Leaflet 0.7.0 or newer.*
+*Requires Leaflet 1.0.0 or newer.*
 
 https://github.com/Leaflet/Leaflet.markercluster
 
@@ -45,4 +45,4 @@ library itself. See https://github.com/axyjo/leaflet-rails.
 ## License
 MIT License, full text of license see [here][License]
 
-[License]: https://github.com/scpike/leaflet-markercluster-rails/blob/master/LICENSE.txt "LICENSE"
+[License]: https://github.com/Leaflet/Leaflet.markercluster/blob/master/MIT-LICENCE.txt "LICENSE"
