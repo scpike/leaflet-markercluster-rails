@@ -1,7 +1,7 @@
 module Leaflet
   module Markercluster
     module Rails
-      VERSION = "0.7.0"
+      VERSION = "1.0.4"
     end
   end
 end
