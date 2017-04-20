@@ -28,12 +28,12 @@ Provides the following assets:
 
     leaflet.markercluster.js
     leaflet.markercluster.css
-    leaflet.markercluster.default.css
+    leaflet.markercluster-default.css
 
 To use these in a Rails app, add the following to application.css or application.css.scss
 
     //= require leaflet.markercluster
-    //= require leaflet.markercluster.default
+    //= require leaflet.markercluster-default
 
 and add the following to application.js
 
